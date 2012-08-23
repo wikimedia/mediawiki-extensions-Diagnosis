@@ -9,12 +9,12 @@ EOT;
 }
  
 $wgExtensionCredits['specialpage'][] = array(
-		'path' => __FILE__,
-		'name' => 'Diagnosis',
-		'author' => '[http://www.dasch-tour.de DaSch]',
-		'url' => 'https://www.mediawiki.org/wiki/Extension:Diagnosis',
-		'descriptionmsg' => 'diagnosis-desc',
-		'version' => '0.0.1',
+	'path' => __FILE__,
+	'name' => 'Diagnosis',
+	'author' => '[http://www.dasch-tour.de DaSch]',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:Diagnosis',
+	'descriptionmsg' => 'diagnosis-desc',
+	'version' => '0.0.1',
 );
  
 $dir = dirname(__FILE__) . '/';
@@ -24,5 +24,6 @@ $wgGroupPermissions['sysop']['diagnosis-access'] = true;
  
 $wgAutoloadClasses['SpecialDiagnosis'] = $dir . 'SpecialDiagnosis.php'; # Location of the SpecialMyExtension class (Tell MediaWiki to load this file)
 $wgExtensionMessagesFiles['Diagnosis'] = $dir . 'Diagnosis.i18n.php'; # Location of a messages file (Tell MediaWiki to load this file)
+$wgExtensionMessagesFiles['SpecialDiagnosis'] = $dir . 'Diagnosis.i18n.alias.php';
 $wgSpecialPages['Diagnosis'] = 'SpecialDiagnosis'; # Tell MediaWiki about the new special page and its class name
 $wgSpecialPageGroups['Diagnosis'] = 'other';

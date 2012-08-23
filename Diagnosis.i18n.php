@@ -1,43 +1,29 @@
 <?php
-
 /**
  * Messages file for the Diagnosis extension
  *
  * @addtogroup Extensions
  */
 
-/**
- * Get all extension messages
- *
- * @return array
- */
 $messages = array();
-$aliases = array();
- 
-/* *** English *** */
-$aliases['en'] = array(
-		'Diagnosis' => array( 'Diagnosis' ),
-);
+
+/** English (English) */
 $messages['en'] = array(
-		'diagnosis' => 'Diagnosis',
-		'diagnosis-desc' => 'Extension to find possible problems and errors or security risks',
+	'diagnosis' => 'Diagnosis',
+	'diagnosis-desc' => 'Special page to find possible problems and errors or security risks',
+	'right-diagnosis-access' => 'Run the diagnosis tool',
 );
 
 /** Message documentation (Message documentation) */
-$aliases['qqq'] = array(
-		'Diagnosis' => array( 'Diagnosis' ),
+$messages['qqq'] = array(
+	'diagnosis' => 'Name of the special page',
+	'diagnosis-desc' => '{{desc}}',
+	'right-diagnosis-access' => '{{doc-right|diagnosis-access}}',
 );
 
-$messages['qqq'] = array(
-		'diagnosis' => 'Diagnosis',
-		'diagnosis-desc' => 'Extensions description',
-);
- 
-/* *** German (Deutsch) *** */
-$aliases['de'] = array(
-		'Diagnosis' => array( 'Diagnose' ),
-);
+/** German (Deutsch) */
 $messages['de'] = array(
-		'diagnosis' => 'Diagnose',
-		'diagnosis-desc' => 'Erweiterung um Probleme, Fehler oder Sicherheitslücken zu finden',
+	'diagnosis' => 'Diagnose',
+	'diagnosis-desc' => 'Erweiterung um Probleme, Fehler oder Sicherheitslücken zu finden',
 );
+
