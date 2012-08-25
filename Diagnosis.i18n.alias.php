@@ -9,7 +9,7 @@
 
 $specialPageAliases = array();
 
-/** English */
+/** English (English) */
 $specialPageAliases['en'] = array(
 	'Diagnosis' => array( 'Diagnosis' ),
 );
