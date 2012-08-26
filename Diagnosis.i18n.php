@@ -49,6 +49,15 @@ $messages['es'] = array(
 	'right-diagnosis-access' => 'Ejecutar la herramienta de diagnóstico',
 );
 
+/** Galician (galego)
+ * @author Toliño
+ */
+$messages['gl'] = array(
+	'diagnosis' => 'Diagnóstico',
+	'diagnosis-desc' => 'Páxina especial para atopar posibles problemas e erros ou riscos de seguridade',
+	'right-diagnosis-access' => 'Executar a ferramenta de diagnóstico',
+);
+
 /** Hebrew (עברית)
  * @author Amire80
  */
