@@ -23,3 +23,8 @@ $specialPageAliases['de'] = array(
 $specialPageAliases['nl'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
 );
+
+/** Turkish (Türkçe) */
+$specialPageAliases['tr'] = array(
+	'Diagnosis' => array( 'Tanı' ),
+);

@@ -121,3 +121,21 @@ $messages['nl'] = array(
 	'right-diagnosis-access' => 'Diagnose uitvoeren',
 );
 
+/** Russian (русский)
+ * @author Lockal
+ */
+$messages['ru'] = array(
+	'diagnosis' => 'Диагностика',
+	'diagnosis-desc' => 'Спецстраница для выявления возможных проблем, ошибок и угроз безопасности',
+	'right-diagnosis-access' => 'Запустить инструмент диагностики',
+);
+
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'diagnosis' => 'Diyagnosis',
+	'diagnosis-desc' => 'Natatanging pahina upang makahanap ng maaaring maging mga suliranin at mga kamalian o mga panganib na pangkatiwasayan',
+	'right-diagnosis-access' => 'Patakbuhin ang kasangkapan na pangdiyagnosis',
+);
+
