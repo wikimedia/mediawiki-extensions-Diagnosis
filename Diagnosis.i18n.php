@@ -21,6 +21,15 @@ $messages['qqq'] = array(
 	'right-diagnosis-access' => '{{doc-right|diagnosis-access}}',
 );
 
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+ * @author Wizardist
+ */
+$messages['be-tarask'] = array(
+	'diagnosis' => 'Дыягностыка',
+	'diagnosis-desc' => 'Спэцыяльная старонка для пошуку магчымых праблемаў, памылак ці пагроз бясьпекі',
+	'right-diagnosis-access' => 'запускаць інструмэнт дыягностыкі',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  * @author Metalhead64
