@@ -19,6 +19,11 @@ $specialPageAliases['de'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
 );
 
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'Diagnosis' => array( '진단' ),
+);
+
 /** Dutch (Nederlands) */
 $specialPageAliases['nl'] = array(
 	'Diagnosis' => array( 'Diagnose' ),

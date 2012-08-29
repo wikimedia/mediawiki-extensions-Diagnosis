@@ -130,6 +130,15 @@ $messages['nl'] = array(
 	'right-diagnosis-access' => 'Diagnose uitvoeren',
 );
 
+/** Piedmontese (Piemontèis)
+ * @author Dragonòt
+ */
+$messages['pms'] = array(
+	'diagnosis' => 'Diàgnosi',
+	'diagnosis-desc' => 'Pagina special për trové problem possìbij e eror o risch ëd sicurëssa',
+	'right-diagnosis-access' => "Fà viré l'utiss ëd diàgnosi",
+);
+
 /** Russian (русский)
  * @author Lockal
  */
