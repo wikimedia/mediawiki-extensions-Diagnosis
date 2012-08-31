@@ -131,12 +131,13 @@ $messages['nl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
 	'diagnosis' => 'Diàgnosi',
-	'diagnosis-desc' => 'Pagina special për trové problem possìbij e eror o risch ëd sicurëssa',
-	'right-diagnosis-access' => "Fà viré l'utiss ëd diàgnosi",
+	'diagnosis-desc' => "Pàgina special për trové dij problema e eror possìbij o dj'arzigh ëd sicurëssa",
+	'right-diagnosis-access' => "Fà marcé l'utiss ëd diàgnosi",
 );
 
 /** Russian (русский)
