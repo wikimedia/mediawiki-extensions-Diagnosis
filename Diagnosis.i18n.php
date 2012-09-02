@@ -21,6 +21,15 @@ $messages['qqq'] = array(
 	'right-diagnosis-access' => '{{doc-right|diagnosis-access}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'diagnosis' => 'Diagnósticu',
+	'diagnosis-desc' => "Páxina especial p'alcontrar posibles problemes y errores o riesgos de seguridá",
+	'right-diagnosis-access' => 'Executar a ferramienta de diagnósticu',
+);
+
 /** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Wizardist
  */
