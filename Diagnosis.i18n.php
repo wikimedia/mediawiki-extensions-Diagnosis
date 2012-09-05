@@ -67,6 +67,15 @@ $messages['es'] = array(
 	'right-diagnosis-access' => 'Ejecutar la herramienta de diagnóstico',
 );
 
+/** French (français)
+ * @author Cquoi
+ */
+$messages['fr'] = array(
+	'diagnosis' => 'Diagnostic',
+	'diagnosis-desc' => 'Page spéciale pour trouver les éventuels problèmes, erreurs ou risques de sécurité',
+	'right-diagnosis-access' => "Exécutez l'outil de diagnostic",
+);
+
 /** Galician (galego)
  * @author Toliño
  */

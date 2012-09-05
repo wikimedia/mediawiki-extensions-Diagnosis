@@ -24,6 +24,11 @@ $specialPageAliases['ko'] = array(
 	'Diagnosis' => array( '진단' ),
 );
 
+/** Malayalam (മലയാളം) */
+$specialPageAliases['ml'] = array(
+	'Diagnosis' => array( 'പിഴവുനിർണ്ണയം' ),
+);
+
 /** Dutch (Nederlands) */
 $specialPageAliases['nl'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
