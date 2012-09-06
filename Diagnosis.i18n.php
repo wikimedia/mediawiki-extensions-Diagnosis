@@ -148,6 +148,15 @@ $messages['nl'] = array(
 	'right-diagnosis-access' => 'Diagnose uitvoeren',
 );
 
+/** Polish (polski)
+ * @author BeginaFelicysym
+ */
+$messages['pl'] = array(
+	'diagnosis' => 'Diagnostyka',
+	'diagnosis-desc' => 'Strona specjalna do wyszukiwania możliwych problemów, błędów oraz zagrożeń bezpieczeństwa',
+	'right-diagnosis-access' => 'Uruchom narzędzie diagnostyczne',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
