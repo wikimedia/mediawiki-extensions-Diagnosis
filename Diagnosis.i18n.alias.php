@@ -14,6 +14,11 @@ $specialPageAliases['en'] = array(
 	'Diagnosis' => array( 'Diagnosis' ),
 );
 
+/** Arabic (العربية) */
+$specialPageAliases['ar'] = array(
+	'Diagnosis' => array( 'تشخيص' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
