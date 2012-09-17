@@ -121,6 +121,15 @@ $messages['ja'] = array(
 	'right-diagnosis-access' => '診断ツールを実行',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'diagnosis' => 'Övverprööfongs-Wärkzüsch',
+	'diagnosis-desc' => 'Extrasigg, öm müjjelesche Probleeme un Fähler un Löke en der Sescherheit ze fenge.',
+	'right-diagnosis-access' => 'Lohß et Övverprööfongs-Wärkzüsch jonn',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
