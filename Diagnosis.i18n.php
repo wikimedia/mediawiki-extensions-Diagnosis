@@ -30,7 +30,7 @@ $messages['ast'] = array(
 	'right-diagnosis-access' => 'Executar a ferramienta de diagnósticu',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Wizardist
  */
 $messages['be-tarask'] = array(
