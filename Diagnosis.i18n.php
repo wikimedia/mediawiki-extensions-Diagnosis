@@ -49,6 +49,13 @@ $messages['de'] = array(
 	'right-diagnosis-access' => 'Das Diagnosewerkzeug ausführen',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'diagnosis' => 'Teşhis',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */

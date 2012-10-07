@@ -24,6 +24,11 @@ $specialPageAliases['de'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
 );
 
+/** Japanese (日本語) */
+$specialPageAliases['ja'] = array(
+	'Diagnosis' => array( '診断' ),
+);
+
 /** Korean (한국어) */
 $specialPageAliases['ko'] = array(
 	'Diagnosis' => array( '진단' ),
