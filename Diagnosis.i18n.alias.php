@@ -34,6 +34,11 @@ $specialPageAliases['ko'] = array(
 	'Diagnosis' => array( '진단' ),
 );
 
+/** Macedonian (македонски) */
+$specialPageAliases['mk'] = array(
+	'Diagnosis' => array( 'Дијагноза' ),
+);
+
 /** Malayalam (മലയാളം) */
 $specialPageAliases['ml'] = array(
 	'Diagnosis' => array( 'പിഴവുനിർണ്ണയം' ),
