@@ -14,7 +14,8 @@ $messages['en'] = array(
 	'right-diagnosis-access' => 'Run the diagnosis tool',
 );
 
-/** Message documentation (Message documentation) */
+/** Message documentation (Message documentation)
+ */
 $messages['qqq'] = array(
 	'diagnosis' => 'Name of the special page',
 	'diagnosis-desc' => '{{desc}}',
@@ -200,4 +201,3 @@ $messages['tl'] = array(
 	'diagnosis-desc' => 'Natatanging pahina upang makahanap ng maaaring maging mga suliranin at mga kamalian o mga panganib na pangkatiwasayan',
 	'right-diagnosis-access' => 'Patakbuhin ang kasangkapan na pangdiyagnosis',
 );
-
