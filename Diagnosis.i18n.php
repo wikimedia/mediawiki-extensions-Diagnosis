@@ -129,6 +129,15 @@ $messages['ja'] = array(
 	'right-diagnosis-access' => '診断ツールを実行',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'diagnosis' => '진단',
+	'diagnosis-desc' => '가능한 문제와 오류 또는 보안 위험을 찾는 특수 문서',
+	'right-diagnosis-access' => '진단 도구 실행',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
