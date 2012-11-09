@@ -53,3 +53,8 @@ $specialPageAliases['nl'] = array(
 $specialPageAliases['tr'] = array(
 	'Diagnosis' => array( 'Tanı' ),
 );
+
+/** Simplified Chinese (中文（简体）‎) */
+$specialPageAliases['zh-hans'] = array(
+	'Diagnosis' => array( '诊断' ),
+);
