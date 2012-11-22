@@ -54,6 +54,11 @@ $specialPageAliases['nl'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
 );
 
+/** Sicilian (sicilianu) */
+$specialPageAliases['scn'] = array(
+	'Diagnosis' => array( 'Diagnosi' ),
+);
+
 /** Turkish (Türkçe) */
 $specialPageAliases['tr'] = array(
 	'Diagnosis' => array( 'Tanı' ),
