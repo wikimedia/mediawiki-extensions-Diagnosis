@@ -24,6 +24,11 @@ $specialPageAliases['de'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
 );
 
+/** Zazaki (Zazaki) */
+$specialPageAliases['diq'] = array(
+	'Diagnosis' => array( 'Şınasnayış' ),
+);
+
 /** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
