@@ -210,3 +210,12 @@ $messages['tl'] = array(
 	'diagnosis-desc' => 'Natatanging pahina upang makahanap ng maaaring maging mga suliranin at mga kamalian o mga panganib na pangkatiwasayan',
 	'right-diagnosis-access' => 'Patakbuhin ang kasangkapan na pangdiyagnosis',
 );
+
+/** Ukrainian (українська)
+ * @author Base
+ */
+$messages['uk'] = array(
+	'diagnosis' => 'Діагностика',
+	'diagnosis-desc' => 'Спеціальна сторінка для виявлення можливих проблем, помилок і загроз безпеці',
+	'right-diagnosis-access' => 'Запустити інструмент діагностики',
+);
