@@ -75,6 +75,13 @@ $messages['es'] = array(
 	'right-diagnosis-access' => 'Ejecutar la herramienta de diagnóstico',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'diagnosis' => 'Diagnoos',
+);
+
 /** French (français)
  * @author Cquoi
  */
@@ -111,6 +118,15 @@ $messages['hsb'] = array(
 	'right-diagnosis-access' => 'Diagnozowy nastroj startować',
 );
 
+/** Indonesian (Bahasa Indonesia)
+ * @author Farras
+ */
+$messages['id'] = array(
+	'diagnosis' => 'Diagnosis',
+	'diagnosis-desc' => 'Halaman istimewa untuk mencari kemungkinan masalah dan kesalahan atau risiko keamanan',
+	'right-diagnosis-access' => 'Jalankan alat diagnosis',
+);
+
 /** Italian (italiano)
  * @author Darth Kule
  */
@@ -127,6 +143,13 @@ $messages['ja'] = array(
 	'diagnosis' => '診断',
 	'diagnosis-desc' => '問題点、エラー、セキュリティ リスクの危険性を見つけるための特別ページ',
 	'right-diagnosis-access' => '診断ツールを実行',
+);
+
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'diagnosis' => 'დიაგნოსტიკა',
 );
 
 /** Korean (한국어)
@@ -191,6 +214,15 @@ $messages['pms'] = array(
 	'diagnosis' => 'Diàgnosi',
 	'diagnosis-desc' => "Pàgina special për trové dij problema e eror possìbij o dj'arzigh ëd sicurëssa",
 	'right-diagnosis-access' => "Fà marcé l'utiss ëd diàgnosi",
+);
+
+/** Romanian (română)
+ * @author Firilacroco
+ * @author Minisarm
+ */
+$messages['ro'] = array(
+	'diagnosis' => 'Diagnostic',
+	'right-diagnosis-access' => 'Execută unealta pentru diagnosticare',
 );
 
 /** Russian (русский)
