@@ -188,6 +188,13 @@ $messages['mk'] = array(
 	'right-diagnosis-access' => 'Употреба на алатката за дијагноза',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'diagnosis' => 'Dijanjosi',
+);
+
 /** Dutch (Nederlands)
  * @author Siebrand
  */
@@ -232,6 +239,14 @@ $messages['ru'] = array(
 	'diagnosis' => 'Диагностика',
 	'diagnosis-desc' => 'Спецстраница для выявления возможных проблем, ошибок и угроз безопасности',
 	'right-diagnosis-access' => 'Запустить инструмент диагностики',
+);
+
+/** Swedish (svenska)
+ * @author WikiPhoenix
+ */
+$messages['sv'] = array(
+	'diagnosis' => 'Diagnos',
+	'right-diagnosis-access' => 'Kör diagnosverktyget',
 );
 
 /** Tagalog (Tagalog)
