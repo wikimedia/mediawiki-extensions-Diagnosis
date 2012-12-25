@@ -241,6 +241,13 @@ $messages['ru'] = array(
 	'right-diagnosis-access' => 'Запустить инструмент диагностики',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'diagnosis' => 'හේතුනිර්ණය',
+);
+
 /** Swedish (svenska)
  * @author WikiPhoenix
  */
