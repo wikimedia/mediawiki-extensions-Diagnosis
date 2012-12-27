@@ -73,3 +73,8 @@ $specialPageAliases['tr'] = array(
 $specialPageAliases['zh-hans'] = array(
 	'Diagnosis' => array( '诊断' ),
 );
+
+/** Traditional Chinese (中文（繁體）‎) */
+$specialPageAliases['zh-hant'] = array(
+	'Diagnosis' => array( '診斷' ),
+);

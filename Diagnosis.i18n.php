@@ -82,6 +82,15 @@ $messages['et'] = array(
 	'diagnosis' => 'Diagnoos',
 );
 
+/** Finnish (suomi)
+ * @author VezonThunder
+ */
+$messages['fi'] = array(
+	'diagnosis' => 'Diagnoosi',
+	'diagnosis-desc' => 'Toimintosivu mahdollisten ongelmien ja virheiden tai turvallisuusriskien löytämiseen',
+	'right-diagnosis-access' => 'Suorittaa diagnoosityökalu',
+);
+
 /** French (français)
  * @author Cquoi
  */
