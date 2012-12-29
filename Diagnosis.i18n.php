@@ -66,6 +66,14 @@ $messages['dsb'] = array(
 	'right-diagnosis-access' => 'Diagnozowy rěd startowaś',
 );
 
+/** Greek (Ελληνικά)
+ * @author ZaDiak
+ */
+$messages['el'] = array(
+	'diagnosis' => 'Διάγνωση',
+	'right-diagnosis-access' => 'Εκτέλεση του εργαλείου διάγνωσης',
+);
+
 /** Spanish (español)
  * @author Armando-Martin
  */
