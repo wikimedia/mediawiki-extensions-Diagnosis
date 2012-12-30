@@ -44,6 +44,11 @@ $specialPageAliases['ko'] = array(
 	'Diagnosis' => array( '진단' ),
 );
 
+/** Luxembourgish (Lëtzebuergesch) */
+$specialPageAliases['lb'] = array(
+	'Diagnosis' => array( 'Diagnos' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'Diagnosis' => array( 'Дијагноза' ),

@@ -40,6 +40,13 @@ $messages['be-tarask'] = array(
 	'right-diagnosis-access' => 'запускаць інструмэнт дыягностыкі',
 );
 
+/** Catalan (català)
+ * @author Arnaugir
+ */
+$messages['ca'] = array(
+	'diagnosis' => 'Diagnòstic',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  * @author Metalhead64
@@ -263,6 +270,7 @@ $messages['ru'] = array(
  */
 $messages['si'] = array(
 	'diagnosis' => 'හේතුනිර්ණය',
+	'right-diagnosis-access' => 'හේතුනිර්ණ මෙවලම ධාවනය කරන්න',
 );
 
 /** Swedish (svenska)
