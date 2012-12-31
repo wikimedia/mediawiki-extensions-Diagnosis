@@ -47,6 +47,13 @@ $messages['ca'] = array(
 	'diagnosis' => 'Diagnòstic',
 );
 
+/** Czech (česky)
+ * @author Vks
+ */
+$messages['cs'] = array(
+	'diagnosis' => 'Diagnóza',
+);
+
 /** German (Deutsch)
  * @author Kghbln
  * @author Metalhead64
@@ -210,6 +217,15 @@ $messages['mk'] = array(
 	'diagnosis' => 'Дијагноза',
 	'diagnosis-desc' => 'Специјална страница што пронаоѓа можни проблеми, грешки или безбедносни ризици',
 	'right-diagnosis-access' => 'Употреба на алатката за дијагноза',
+);
+
+/** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
+ */
+$messages['ms'] = array(
+	'diagnosis' => 'Diagnosis',
+	'diagnosis-desc' => 'Halaman khas untuk mencari kemungkinan masalah dan ralat ataupun ancaman kepada keselamatan',
+	'right-diagnosis-access' => 'Menjalankan alat diagnosis',
 );
 
 /** Maltese (Malti)
