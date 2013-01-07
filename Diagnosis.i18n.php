@@ -314,3 +314,12 @@ $messages['uk'] = array(
 	'diagnosis-desc' => 'Спеціальна сторінка для виявлення можливих проблем, помилок і загроз безпеці',
 	'right-diagnosis-access' => 'Запустити інструмент діагностики',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Simon Shek
+ */
+$messages['zh-hant'] = array(
+	'diagnosis' => '診斷',
+	'diagnosis-desc' => '找出可能存在的問題和錯誤或安全風險的特殊頁面',
+	'right-diagnosis-access' => '運行診斷工具',
+);
