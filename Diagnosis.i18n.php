@@ -315,6 +315,15 @@ $messages['uk'] = array(
 	'right-diagnosis-access' => 'Запустити інструмент діагностики',
 );
 
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'diagnosis' => '诊断',
+	'diagnosis-desc' => '找出可能存在的问题和错误或安全风险的特殊页面',
+	'right-diagnosis-access' => '运行诊断工具',
+);
+
 /** Traditional Chinese (中文（繁體）‎)
  * @author Simon Shek
  */
