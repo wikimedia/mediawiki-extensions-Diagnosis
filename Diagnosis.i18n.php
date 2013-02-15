@@ -181,6 +181,7 @@ $messages['ja'] = array(
  */
 $messages['ka'] = array(
 	'diagnosis' => 'დიაგნოსტიკა',
+	'right-diagnosis-access' => 'დიაგნოსტიკის ხელსაწყოს გაშვება',
 );
 
 /** Korean (한국어)
