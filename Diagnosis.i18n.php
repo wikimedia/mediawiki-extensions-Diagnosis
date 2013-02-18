@@ -40,6 +40,13 @@ $messages['be-tarask'] = array(
 	'right-diagnosis-access' => 'запускаць інструмэнт дыягностыкі',
 );
 
+/** Breton (brezhoneg)
+ * @author Fohanno
+ */
+$messages['br'] = array(
+	'diagnosis' => 'Diagnostik',
+);
+
 /** Catalan (català)
  * @author Arnaugir
  */
@@ -271,6 +278,15 @@ $messages['pms'] = array(
 $messages['ro'] = array(
 	'diagnosis' => 'Diagnostic',
 	'right-diagnosis-access' => 'Execută unealta pentru diagnosticare',
+);
+
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'diagnosis' => 'Diagnosi',
+	'diagnosis-desc' => 'Pàgene speciale pe acchià le probbleme possibbele e le errore o rischie de securezze',
+	'right-diagnosis-access' => "Lange 'u strumende de diagnosi",
 );
 
 /** Russian (русский)
