@@ -29,6 +29,11 @@ $specialPageAliases['diq'] = array(
 	'Diagnosis' => array( 'Şınasnayış' ),
 );
 
+/** Esperanto (Esperanto) */
+$specialPageAliases['eo'] = array(
+	'Diagnosis' => array( 'Diagnozo' ),
+);
+
 /** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
