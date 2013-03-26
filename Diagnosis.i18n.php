@@ -15,9 +15,10 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'diagnosis' => 'Name of the special page',
+	'diagnosis' => '{{doc-special|Diagnosis}}',
 	'diagnosis-desc' => '{{desc}}',
 	'right-diagnosis-access' => '{{doc-right|diagnosis-access}}',
 );
