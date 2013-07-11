@@ -34,6 +34,11 @@ $specialPageAliases['eo'] = array(
 	'Diagnosis' => array( 'Diagnozo' ),
 );
 
+/** Persian (فارسی) */
+$specialPageAliases['fa'] = array(
+	'Diagnosis' => array( 'عیب‌شناسی' ),
+);
+
 /** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
