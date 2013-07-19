@@ -219,6 +219,14 @@ $messages['lb'] = array(
 	'right-diagnosis-access' => 'Den Diagnos-Tool benotzen',
 );
 
+/** Lithuanian (lietuvių)
+ * @author Eitvys200
+ */
+$messages['lt'] = array(
+	'diagnosis' => 'Diagnozė',
+	'right-diagnosis-access' => 'Paleisti diagnozės įrankį',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
