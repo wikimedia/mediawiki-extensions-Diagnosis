@@ -157,6 +157,15 @@ $messages['hsb'] = array(
 	'right-diagnosis-access' => 'Diagnozowy nastroj startować',
 );
 
+/** Interlingua (interlingua)
+ * @author McDutchie
+ */
+$messages['ia'] = array(
+	'diagnosis' => 'Diagnose',
+	'diagnosis-desc' => 'Pagina special pro cercar possibile problemas e errores o riscos de securitate',
+	'right-diagnosis-access' => 'Executar le instrumento diagnostic',
+);
+
 /** Indonesian (Bahasa Indonesia)
  * @author Farras
  */
