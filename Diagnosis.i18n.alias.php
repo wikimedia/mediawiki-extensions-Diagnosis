@@ -19,6 +19,11 @@ $specialPageAliases['ar'] = array(
 	'Diagnosis' => array( 'تشخيص' ),
 );
 
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
+$specialPageAliases['cdo'] = array(
+	'Diagnosis' => array( '診斷' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
