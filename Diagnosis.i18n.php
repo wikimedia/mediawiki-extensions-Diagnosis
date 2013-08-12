@@ -19,7 +19,7 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'diagnosis' => '{{doc-special|Diagnosis}}',
-	'diagnosis-desc' => '{{desc}}',
+	'diagnosis-desc' => '{{desc|name=Diagnosis|url=http://www.mediawiki.org/wiki/Extension:Diagnosis}}',
 	'right-diagnosis-access' => '{{doc-right|diagnosis-access}}',
 );
 
