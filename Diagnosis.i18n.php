@@ -236,6 +236,15 @@ $messages['lt'] = array(
 	'right-diagnosis-access' => 'Paleisti diagnozės įrankį',
 );
 
+/** Latvian (latviešu)
+ * @author Papuass
+ */
+$messages['lv'] = array(
+	'diagnosis' => 'Diagnoze',
+	'diagnosis-desc' => 'Īpašā lapa, lai atrastu iespējamās problēmas, kļūdas un drošības riskus',
+	'right-diagnosis-access' => 'Palaist diagnostikas rīku',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
