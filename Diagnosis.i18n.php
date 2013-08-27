@@ -279,6 +279,13 @@ $messages['nl'] = array(
 	'right-diagnosis-access' => 'Diagnose uitvoeren',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'diagnosis' => 'Diagnostic',
+);
+
 /** Polish (polski)
  * @author BeginaFelicysym
  */
