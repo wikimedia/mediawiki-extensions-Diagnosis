@@ -305,6 +305,15 @@ $messages['pms'] = array(
 	'right-diagnosis-access' => "Fà marcé l'utiss ëd diàgnosi",
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'diagnosis' => 'Diagnóstico',
+	'diagnosis-desc' => 'Página especial para encontrar possíveis erros ou riscos de segurança',
+	'right-diagnosis-access' => 'Executar a ferramenta de diagnóstico',
+);
+
 /** Romanian (română)
  * @author Firilacroco
  * @author Minisarm
