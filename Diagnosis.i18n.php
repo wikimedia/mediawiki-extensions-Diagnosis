@@ -46,6 +46,7 @@ $messages['be-tarask'] = array(
  */
 $messages['br'] = array(
 	'diagnosis' => 'Diagnostik',
+	'right-diagnosis-access' => 'Lakaat an ostilh diagnostik da vont en-dro',
 );
 
 /** Catalan (català)
