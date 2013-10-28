@@ -285,6 +285,7 @@ $messages['nl'] = array(
  */
 $messages['oc'] = array(
 	'diagnosis' => 'Diagnostic',
+	'right-diagnosis-access' => "Executatz l'aisina de diagnostic",
 );
 
 /** Polish (polski)
