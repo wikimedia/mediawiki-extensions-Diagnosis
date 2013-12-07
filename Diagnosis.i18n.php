@@ -56,7 +56,7 @@ $messages['ca'] = array(
 	'diagnosis' => 'Diagnòstic',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Vks
  */
 $messages['cs'] = array(
