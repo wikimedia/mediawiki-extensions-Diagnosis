@@ -352,10 +352,12 @@ $messages['si'] = array(
 );
 
 /** Swedish (svenska)
+ * @author Tobulos1
  * @author WikiPhoenix
  */
 $messages['sv'] = array(
 	'diagnosis' => 'Diagnos',
+	'diagnosis-desc' => 'Särskild sida för att hitta eventuella problem och fel eller säkerhetsrisker',
 	'right-diagnosis-access' => 'Kör diagnosverktyget',
 );
 
