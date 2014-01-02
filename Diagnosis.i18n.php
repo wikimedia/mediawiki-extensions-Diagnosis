@@ -113,6 +113,15 @@ $messages['et'] = array(
 	'diagnosis' => 'Diagnoos',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'diagnosis' => 'تشخيص',
+	'diagnosis-desc' => 'صفحهٔ ویژه برای پیدا کردن مشکلات و خطاها یا خطرات امنیتی ممکن',
+	'right-diagnosis-access' => 'اجرای ابزار تشخيص',
+);
+
 /** Finnish (suomi)
  * @author VezonThunder
  */
