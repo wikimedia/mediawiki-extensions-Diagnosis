@@ -20,6 +20,11 @@ $specialPageAliases['ar'] = array(
 	'Diagnosis' => array( 'تشخيص' ),
 );
 
+/** Egyptian Spoken Arabic (مصرى) */
+$specialPageAliases['arz'] = array(
+	'Diagnosis' => array( 'تشخيص' ),
+);
+
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
 $specialPageAliases['cdo'] = array(
 	'Diagnosis' => array( '診斷' ),
