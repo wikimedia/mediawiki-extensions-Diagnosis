@@ -1,0 +1,12 @@
+{
+    "@metadata": {
+        "authors": [
+            "Jopparn",
+            "Tobulos1",
+            "WikiPhoenix"
+        ]
+    },
+    "diagnosis": "Diagnos",
+    "diagnosis-desc": "Specialsida för att hitta eventuella problem och fel eller säkerhetsrisker",
+    "right-diagnosis-access": "Kör diagnosverktyget"
+}

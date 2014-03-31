@@ -1,0 +1,10 @@
+{
+    "@metadata": {
+        "authors": [
+            "Siebrand"
+        ]
+    },
+    "diagnosis": "Diagnose",
+    "diagnosis-desc": "Speciale pagina om mogelijk problemen en fout of beveiligingsproblemen te vinden",
+    "right-diagnosis-access": "Diagnose uitvoeren"
+}
