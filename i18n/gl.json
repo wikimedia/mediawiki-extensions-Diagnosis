@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "diagnosis": "Diagnóstico",
-    "diagnosis-desc": "Páxina especial para atopar posibles problemas e erros ou riscos de seguridade",
-    "right-diagnosis-access": "Executar a ferramenta de diagnóstico"
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"diagnosis": "Diagnóstico",
+	"diagnosis-desc": "Páxina especial para atopar posibles problemas e erros ou riscos de seguridade",
+	"right-diagnosis-access": "Executar a ferramenta de diagnóstico"
 }

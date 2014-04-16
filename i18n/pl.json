@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "BeginaFelicysym"
-        ]
-    },
-    "diagnosis": "Diagnostyka",
-    "diagnosis-desc": "Strona specjalna do wyszukiwania możliwych problemów, błędów oraz zagrożeń bezpieczeństwa",
-    "right-diagnosis-access": "Uruchom narzędzie diagnostyczne"
+	"@metadata": {
+		"authors": [
+			"BeginaFelicysym"
+		]
+	},
+	"diagnosis": "Diagnostyka",
+	"diagnosis-desc": "Strona specjalna do wyszukiwania możliwych problemów, błędów oraz zagrożeń bezpieczeństwa",
+	"right-diagnosis-access": "Uruchom narzędzie diagnostyczne"
 }
