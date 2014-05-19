@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Fúlvio"
+		]
+	},
+	"diagnosis": "Diagnóstico",
+	"diagnosis-desc": "Página especial para encontrar possíveis problemas e erros ou riscos à segurança",
+	"right-diagnosis-access": "Executar a ferramenta de diagnóstico"
+}
