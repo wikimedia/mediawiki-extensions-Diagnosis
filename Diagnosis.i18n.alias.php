@@ -50,6 +50,11 @@ $specialPageAliases['fa'] = array(
 	'Diagnosis' => array( 'عیب‌شناسی' ),
 );
 
+/** Upper Sorbian (hornjoserbsce) */
+$specialPageAliases['hsb'] = array(
+	'Diagnosis' => array( 'Diagnoza' ),
+);
+
 /** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
