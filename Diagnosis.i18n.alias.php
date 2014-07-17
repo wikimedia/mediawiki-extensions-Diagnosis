@@ -95,6 +95,11 @@ $specialPageAliases['scn'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
 );
 
+/** Swedish (svenska) */
+$specialPageAliases['sv'] = array(
+	'Diagnosis' => array( 'Diagnos' ),
+);
+
 /** Turkish (Türkçe) */
 $specialPageAliases['tr'] = array(
 	'Diagnosis' => array( 'Tanı' ),
