@@ -90,6 +90,11 @@ $specialPageAliases['nl'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
 );
 
+/** Polish (polski) */
+$specialPageAliases['pl'] = array(
+	'Diagnosis' => array( 'Diagnoza' ),
+);
+
 /** Sicilian (sicilianu) */
 $specialPageAliases['scn'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
