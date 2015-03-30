@@ -100,6 +100,11 @@ $specialPageAliases['pl'] = array(
 	'Diagnosis' => array( 'Diagnoza' ),
 );
 
+/** Brazilian Portuguese (português do Brasil) */
+$specialPageAliases['pt-br'] = array(
+	'Diagnosis' => array( 'Diagnóstico' ),
+);
+
 /** Sicilian (sicilianu) */
 $specialPageAliases['scn'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
