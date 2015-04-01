@@ -37,7 +37,7 @@ $specialPageAliases['de'] = array(
 
 /** Zazaki (Zazaki) */
 $specialPageAliases['diq'] = array(
-	'Diagnosis' => array( 'Şılasnayış' ),
+	'Diagnosis' => array( 'Şınasnayış' ),
 );
 
 /** Esperanto (Esperanto) */
