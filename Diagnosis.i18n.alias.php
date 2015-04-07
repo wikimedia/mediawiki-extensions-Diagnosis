@@ -25,6 +25,11 @@ $specialPageAliases['arz'] = array(
 	'Diagnosis' => array( 'تشخيص' ),
 );
 
+/** Western Balochi (بلوچی رخشانی) */
+$specialPageAliases['bgn'] = array(
+	'Diagnosis' => array( 'ئیب_زانوک' ),
+);
+
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
 $specialPageAliases['cdo'] = array(
 	'Diagnosis' => array( '診斷' ),
