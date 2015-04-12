@@ -35,6 +35,11 @@ $specialPageAliases['cdo'] = array(
 	'Diagnosis' => array( '診斷' ),
 );
 
+/** Czech (čeština) */
+$specialPageAliases['cs'] = array(
+	'Diagnosis' => array( 'Diagnóza' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'Diagnosis' => array( 'Diagnose' ),
