@@ -20,7 +20,7 @@ $specialPageAliases['ar'] = array(
 	'Diagnosis' => array( 'تشخيص' ),
 );
 
-/** Egyptian Spoken Arabic (مصرى) */
+/** Egyptian Arabic (مصرى) */
 $specialPageAliases['arz'] = array(
 	'Diagnosis' => array( 'تشخيص' ),
 );
