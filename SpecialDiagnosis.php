@@ -101,4 +101,8 @@ class SpecialDiagnosis extends SpecialPage {
 				### End Table ###
 				$wgOut->addHTML( '</table>' );
 		}
+
+		protected function getGroupName() {
+				return 'other';
+		}
 }
