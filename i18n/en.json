@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": []
-    },
-    "diagnosis": "Diagnosis",
-    "diagnosis-desc": "Special page to find possible problems and errors or security risks",
-    "right-diagnosis-access": "Run the diagnosis tool"
+	"@metadata": {
+		"authors": []
+	},
+	"diagnosis": "Diagnosis",
+	"diagnosis-desc": "Special page to find possible problems and errors or security risks",
+	"right-diagnosis-access": "Run the diagnosis tool"
 }
