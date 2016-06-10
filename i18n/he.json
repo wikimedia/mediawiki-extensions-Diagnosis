@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Guycn2"
 		]
 	},
 	"diagnosis": "אבחון",
 	"diagnosis-desc": "דף מיוחד למציאת בעיות אפשריות ושגיאות או בעיות אבטחה",
-	"right-diagnosis-access": "הרצת כלי האבחון"
+	"right-diagnosis-access": "הפעלת כלי האבחון"
 }
