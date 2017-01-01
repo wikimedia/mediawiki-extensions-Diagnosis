@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"diagnosis": "Diagnose",
+	"diagnosis-desc": "Spesialside for å finne mulige problemer og feil eller sikkerhetsrisikoer",
+	"right-diagnosis-access": "Kjør diagnoseverktøyet"
+}
