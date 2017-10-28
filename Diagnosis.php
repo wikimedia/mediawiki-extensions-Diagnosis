@@ -24,6 +24,5 @@ $wgGroupPermissions['sysop']['diagnosis-access'] = true;
 
 $wgAutoloadClasses['SpecialDiagnosis'] = $dir . 'SpecialDiagnosis.php'; # Location of the SpecialMyExtension class (Tell MediaWiki to load this file)
 $wgMessagesDirs['Diagnosis'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['Diagnosis'] = $dir . 'Diagnosis.i18n.php';
 $wgExtensionMessagesFiles['SpecialDiagnosis'] = $dir . 'Diagnosis.i18n.alias.php';
 $wgSpecialPages['Diagnosis'] = 'SpecialDiagnosis'; # Tell MediaWiki about the new special page and its class name
