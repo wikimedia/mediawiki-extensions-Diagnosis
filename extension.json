@@ -5,6 +5,9 @@
 	"url": "https://www.mediawiki.org/wiki/Extension:Diagnosis",
 	"descriptionmsg": "diagnosis-desc",
 	"type": "specialpage",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
 	"AvailableRights": [
 		"diagnosis-access"
 	],
