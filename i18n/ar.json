@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"ديفيد"
+			"ديفيد",
+			"Meno25"
 		]
 	},
 	"diagnosis": "التشخيص",
 	"diagnosis-desc": "صفحة خاصة للعثور على المشاكل والأخطاء المحتملة أو المخاطر الأمنية",
+	"action-diagnosis-access": "تشغيل أداة التشخيص",
 	"right-diagnosis-access": "تشغيل أداة التشخيص"
 }
