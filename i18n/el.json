@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"ZaDiak"
+			"ZaDiak",
+			"Protnet"
 		]
 	},
 	"diagnosis": "Διάγνωση",
+	"action-diagnosis-access": "εκτελέσετε το διαγνωστικό εργαλείο",
 	"right-diagnosis-access": "Εκτέλεση του εργαλείου διάγνωσης"
 }
