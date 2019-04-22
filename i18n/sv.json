@@ -8,5 +8,6 @@
 	},
 	"diagnosis": "Diagnos",
 	"diagnosis-desc": "Specialsida för att hitta eventuella problem och fel eller säkerhetsrisker",
+	"action-diagnosis-access": "köra diagnosverktyget",
 	"right-diagnosis-access": "Kör diagnosverktyget"
 }
