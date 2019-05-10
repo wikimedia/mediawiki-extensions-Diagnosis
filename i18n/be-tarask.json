@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wizardist"
+			"Wizardist",
+			"Red Winged Duck"
 		]
 	},
 	"diagnosis": "Дыягностыка",
 	"diagnosis-desc": "Спэцыяльная старонка для пошуку магчымых праблемаў, памылак ці пагроз бясьпекі",
+	"action-diagnosis-access": "запуск інструмэнту дыягностыкі",
 	"right-diagnosis-access": "запускаць інструмэнт дыягностыкі"
 }
