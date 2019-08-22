@@ -6,5 +6,6 @@
 	},
 	"diagnosis": "Diagnose",
 	"diagnosis-desc": "Spesialside for å finne mulige problemer og feil eller sikkerhetsrisikoer",
+	"action-diagnosis-access": "kjøre diagnoseverktøyet",
 	"right-diagnosis-access": "Kjør diagnoseverktøyet"
 }
