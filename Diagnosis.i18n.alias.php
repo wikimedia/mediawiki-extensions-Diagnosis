@@ -29,6 +29,11 @@ $specialPageAliases['bgn'] = array(
 	'Diagnosis' => array( 'ئیب_زانوک' ),
 );
 
+/** Bosnian (bosanski) */
+$specialPageAliases['bs'] = array(
+	'Diagnosis' => array( 'Dijagnoza' ),
+);
+
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
 $specialPageAliases['cdo'] = array(
 	'Diagnosis' => array( '診斷' ),
