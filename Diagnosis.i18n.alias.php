@@ -124,6 +124,16 @@ $specialPageAliases['scn'] = array(
 	'Diagnosis' => array( 'Diagnosi' ),
 );
 
+/** Serbian Cyrillic (српски (ћирилица)) */
+$specialPageAliases['sr-ec'] = array(
+	'Diagnosis' => array( 'Дијагноза' ),
+);
+
+/** Serbian Latin (srpski (latinica)) */
+$specialPageAliases['sr-el'] = array(
+	'Diagnosis' => array( 'Dijagnoza' ),
+);
+
 /** Swedish (svenska) */
 $specialPageAliases['sv'] = array(
 	'Diagnosis' => array( 'Diagnos' ),
