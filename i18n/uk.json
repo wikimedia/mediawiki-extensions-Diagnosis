@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Base",
-			"Vlad5250"
+			"Vlad5250",
+			"Piramidion"
 		]
 	},
 	"diagnosis": "Діагностика",
 	"diagnosis-desc": "Спеціальна сторінка для виявлення можливих проблем, помилок і загроз безпеці",
 	"action-diagnosis-access": "використання інструменту діагностики",
-	"right-diagnosis-access": "Запустити інструмент діагностики"
+	"right-diagnosis-access": "Запуск інструмента діагностики"
 }
