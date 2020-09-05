@@ -7,149 +7,149 @@
  * @addtogroup Extensions
  */
 
-$specialPageAliases = array();
+$specialPageAliases = [];
 
 /** English (English) */
-$specialPageAliases['en'] = array(
-	'Diagnosis' => array( 'Diagnosis' ),
-);
+$specialPageAliases['en'] = [
+	'Diagnosis' => [ 'Diagnosis' ],
+];
 
 /** Arabic (العربية) */
-$specialPageAliases['ar'] = array(
-	'Diagnosis' => array( 'تشخيص' ),
-);
+$specialPageAliases['ar'] = [
+	'Diagnosis' => [ 'تشخيص' ],
+];
 
 /** Egyptian Arabic (مصرى) */
-$specialPageAliases['arz'] = array(
-	'Diagnosis' => array( 'تشخيص' ),
-);
+$specialPageAliases['arz'] = [
+	'Diagnosis' => [ 'تشخيص' ],
+];
 
 /** Western Balochi (بلوچی رخشانی) */
-$specialPageAliases['bgn'] = array(
-	'Diagnosis' => array( 'ئیب_زانوک' ),
-);
+$specialPageAliases['bgn'] = [
+	'Diagnosis' => [ 'ئیب_زانوک' ],
+];
 
 /** Bosnian (bosanski) */
-$specialPageAliases['bs'] = array(
-	'Diagnosis' => array( 'Dijagnoza' ),
-);
+$specialPageAliases['bs'] = [
+	'Diagnosis' => [ 'Dijagnoza' ],
+];
 
 /** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
-$specialPageAliases['cdo'] = array(
-	'Diagnosis' => array( '診斷' ),
-);
+$specialPageAliases['cdo'] = [
+	'Diagnosis' => [ '診斷' ],
+];
 
 /** Czech (čeština) */
-$specialPageAliases['cs'] = array(
-	'Diagnosis' => array( 'Diagnóza' ),
-);
+$specialPageAliases['cs'] = [
+	'Diagnosis' => [ 'Diagnóza' ],
+];
 
 /** German (Deutsch) */
-$specialPageAliases['de'] = array(
-	'Diagnosis' => array( 'Diagnose' ),
-);
+$specialPageAliases['de'] = [
+	'Diagnosis' => [ 'Diagnose' ],
+];
 
 /** Zazaki (Zazaki) */
-$specialPageAliases['diq'] = array(
-	'Diagnosis' => array( 'Şınasnayış' ),
-);
+$specialPageAliases['diq'] = [
+	'Diagnosis' => [ 'Şınasnayış' ],
+];
 
 /** Esperanto (Esperanto) */
-$specialPageAliases['eo'] = array(
-	'Diagnosis' => array( 'Diagnozo' ),
-);
+$specialPageAliases['eo'] = [
+	'Diagnosis' => [ 'Diagnozo' ],
+];
 
 /** Persian (فارسی) */
-$specialPageAliases['fa'] = array(
-	'Diagnosis' => array( 'عیب‌شناسی' ),
-);
+$specialPageAliases['fa'] = [
+	'Diagnosis' => [ 'عیب‌شناسی' ],
+];
 
 /** Hebrew (עברית) */
-$specialPageAliases['he'] = array(
-	'Diagnosis' => array( 'אבחנה' ),
-);
+$specialPageAliases['he'] = [
+	'Diagnosis' => [ 'אבחנה' ],
+];
 
 /** Upper Sorbian (hornjoserbsce) */
-$specialPageAliases['hsb'] = array(
-	'Diagnosis' => array( 'Diagnoza' ),
-);
+$specialPageAliases['hsb'] = [
+	'Diagnosis' => [ 'Diagnoza' ],
+];
 
 /** Italian (italiano) */
-$specialPageAliases['it'] = array(
-	'Diagnosis' => array( 'Diagnosi' ),
-);
+$specialPageAliases['it'] = [
+	'Diagnosis' => [ 'Diagnosi' ],
+];
 
 /** Japanese (日本語) */
-$specialPageAliases['ja'] = array(
-	'Diagnosis' => array( '診断' ),
-);
+$specialPageAliases['ja'] = [
+	'Diagnosis' => [ '診断' ],
+];
 
 /** Korean (한국어) */
-$specialPageAliases['ko'] = array(
-	'Diagnosis' => array( '진단' ),
-);
+$specialPageAliases['ko'] = [
+	'Diagnosis' => [ '진단' ],
+];
 
 /** Luxembourgish (Lëtzebuergesch) */
-$specialPageAliases['lb'] = array(
-	'Diagnosis' => array( 'Diagnos' ),
-);
+$specialPageAliases['lb'] = [
+	'Diagnosis' => [ 'Diagnos' ],
+];
 
 /** Macedonian (македонски) */
-$specialPageAliases['mk'] = array(
-	'Diagnosis' => array( 'Дијагноза' ),
-);
+$specialPageAliases['mk'] = [
+	'Diagnosis' => [ 'Дијагноза' ],
+];
 
 /** Malayalam (മലയാളം) */
-$specialPageAliases['ml'] = array(
-	'Diagnosis' => array( 'പിഴവുനിർണ്ണയം' ),
-);
+$specialPageAliases['ml'] = [
+	'Diagnosis' => [ 'പിഴവുനിർണ്ണയം' ],
+];
 
 /** Dutch (Nederlands) */
-$specialPageAliases['nl'] = array(
-	'Diagnosis' => array( 'Diagnose' ),
-);
+$specialPageAliases['nl'] = [
+	'Diagnosis' => [ 'Diagnose' ],
+];
 
 /** Polish (polski) */
-$specialPageAliases['pl'] = array(
-	'Diagnosis' => array( 'Diagnoza' ),
-);
+$specialPageAliases['pl'] = [
+	'Diagnosis' => [ 'Diagnoza' ],
+];
 
 /** Brazilian Portuguese (português do Brasil) */
-$specialPageAliases['pt-br'] = array(
-	'Diagnosis' => array( 'Diagnóstico' ),
-);
+$specialPageAliases['pt-br'] = [
+	'Diagnosis' => [ 'Diagnóstico' ],
+];
 
 /** Sicilian (sicilianu) */
-$specialPageAliases['scn'] = array(
-	'Diagnosis' => array( 'Diagnosi' ),
-);
+$specialPageAliases['scn'] = [
+	'Diagnosis' => [ 'Diagnosi' ],
+];
 
 /** Serbian Cyrillic (српски (ћирилица)) */
-$specialPageAliases['sr-ec'] = array(
-	'Diagnosis' => array( 'Дијагноза' ),
-);
+$specialPageAliases['sr-ec'] = [
+	'Diagnosis' => [ 'Дијагноза' ],
+];
 
 /** Serbian Latin (srpski (latinica)) */
-$specialPageAliases['sr-el'] = array(
-	'Diagnosis' => array( 'Dijagnoza' ),
-);
+$specialPageAliases['sr-el'] = [
+	'Diagnosis' => [ 'Dijagnoza' ],
+];
 
 /** Swedish (svenska) */
-$specialPageAliases['sv'] = array(
-	'Diagnosis' => array( 'Diagnos' ),
-);
+$specialPageAliases['sv'] = [
+	'Diagnosis' => [ 'Diagnos' ],
+];
 
 /** Turkish (Türkçe) */
-$specialPageAliases['tr'] = array(
-	'Diagnosis' => array( 'Tanı' ),
-);
+$specialPageAliases['tr'] = [
+	'Diagnosis' => [ 'Tanı' ],
+];
 
 /** Simplified Chinese (中文（简体）‎) */
-$specialPageAliases['zh-hans'] = array(
-	'Diagnosis' => array( '诊断' ),
-);
+$specialPageAliases['zh-hans'] = [
+	'Diagnosis' => [ '诊断' ],
+];
 
 /** Traditional Chinese (中文（繁體）‎) */
-$specialPageAliases['zh-hant'] = array(
-	'Diagnosis' => array( '診斷' ),
-);
+$specialPageAliases['zh-hant'] = [
+	'Diagnosis' => [ '診斷' ],
+];
