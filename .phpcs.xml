@@ -6,5 +6,4 @@
 		<exclude name="MediaWiki.Usage.ForbiddenFunctions.shell_exec" />
 	</rule>
 	<file>.</file>
-	<exclude-pattern>vendor</exclude-pattern>
 </ruleset>
