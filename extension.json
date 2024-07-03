@@ -17,7 +17,9 @@
 		}
 	},
 	"SpecialPages": {
-		"Diagnosis": "SpecialDiagnosis"
+		"Diagnosis": {
+			"class": "MediaWiki\\Extension\\Diagnosis\\SpecialDiagnosis"
+		}
 	},
 	"MessagesDirs": {
 		"Diagnosis": [
@@ -27,8 +29,8 @@
 	"ExtensionMessagesFiles": {
 		"SpecialDiagnosis": "Diagnosis.i18n.alias.php"
 	},
-	"AutoloadClasses": {
-		"SpecialDiagnosis": "SpecialDiagnosis.php"
+	"AutoloadNamespaces": {
+		"MediaWiki\\Extension\\Diagnosis\\": "includes/"
 	},
 	"manifest_version": 2
 }

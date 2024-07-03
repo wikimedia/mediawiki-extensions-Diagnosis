@@ -1,5 +1,9 @@
 <?php
 
+namespace MediaWiki\Extension\Diagnosis;
+
+use MediaWiki\SpecialPage\SpecialPage;
+
 class SpecialDiagnosis extends SpecialPage {
 
 	public function __construct() {
