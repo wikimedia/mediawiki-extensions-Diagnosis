@@ -144,12 +144,17 @@ $specialPageAliases['tr'] = [
 	'Diagnosis' => [ 'Tanı' ],
 ];
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Chinese (中文) */
+$specialPageAliases['zh'] = [
+	'Diagnosis' => [ 'Diagnosis' ],
+];
+
+/** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
 	'Diagnosis' => [ '诊断' ],
 ];
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）) */
 $specialPageAliases['zh-hant'] = [
 	'Diagnosis' => [ '診斷' ],
 ];
