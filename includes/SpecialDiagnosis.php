@@ -7,7 +7,12 @@ use MediaWiki\SpecialPage\SpecialPage;
 class SpecialDiagnosis extends SpecialPage {
 
 	public function __construct() {
-		parent::__construct( 'Diagnosis', 'diagnosis-access' );
+		parent::__construct( 'Diagnosis' );
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'diagnosis-access';
 	}
 
 	/**
